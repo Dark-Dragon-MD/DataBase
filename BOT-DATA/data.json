@@ -2,22 +2,22 @@
 
   "releaseVersion": "1.1.0-beta",
   "pairSite": "https://yasiya-md-session-server1.koyeb.app/code?number=",
-  "tableName": "YASIYAMD_CONFIG",
+  "tableName": "𝗗𝗮𝗿𝗞_𝗗𝗿𝗮𝗴𝗼𝗡",
   "supportGroup": "HaAuKbsxqA69kSqzoa4Ekt",
 
   "logo": {
-    "connectLogo": "https://i.ibb.co/Kzh27x4T/Blue-and-Teal-Big-Bright-and-Bold-Ai-Technology-Banner.jpg",
-    "mainLogo": "https://raw.githubusercontent.com/Dark-Yasiya/DARKYASIYA-DATABASE/main/MEDIA/IMAGE/yasiya-md.jpg",
-    "contextLogo": "https://i.ibb.co/tPsnkv2d/e20c71cfd1e0d222.jpg"
+    "connectLogo": "https://ibb.co/3mkp9k10",
+    "mainLogo": "https://ibb.co/3mkp9k10",
+    "contextLogo": "https://ibb.co/3mkp9k10"
   },
 
-  "footer": "*• ʏᴀꜱɪʏᴀ-ᴍᴅ •*",
-  "contextBody": "ᴘᴏᴡᴇʀᴇᴅ ʙʏ | ʏᴀꜱɪʏᴀ-ᴍᴅ ᴛᴇᴀᴍ",
+  "footer": "*• ᴅᴀʀᴋ_ᴅʀᴀɢᴏɴ •*",
+  "contextBody": "ᴘᴏᴡᴇʀᴇᴅ ʙʏ | ᴅᴀʀᴋ_ᴅʀᴀɢᴏɴ-ᴍᴅ",
 
-  "connectMsgSendNb": "94740952096@s.whatsapp.net",
-  "officialSite": "https://yasiya-md-main.vercel.app/",
-  "publicRepo": "https://github.com/DarkYasiyaNew/YASIYA-MD/",
-  "officialChannel": "https://whatsapp.com/channel/0029VaaPfFK7Noa8nI8zGg27",
+  "connectMsgSendNb": "94775434030@s.whatsapp.net",
+  "officialSite": "",
+  "publicRepo": "https://github.com/Dark-Dragon-MD",
+  "officialChannel": "https://whatsapp.com/channel/0029Vb6mN9nJ3juqU70h7x23",
 
   "newsletters": ["120363300772542098@newsletter","120363385775730448@newsletter","120363401429603936@newsletter"],
   "supGpAccess": ["29292297740408"],
@@ -27,7 +27,7 @@
 
   "antiBotId": ["BAE", "EVO", "B1E", "3L1"],
   "antiBotCpation": [""],
-  "supportGroupAccess": ["94761047254", "13678483356"],
+  "supportGroupAccess": ["94775434030"],
   "token": "dEVwY3hVRGlJTzlCU0pZY2h2eHM1dHpHRzUyYk55NE8wTW9m",
-  "user": "YASIYA-MD"
+  "user": "𝗗𝗮𝗿𝗞_𝗗𝗿𝗮𝗴𝗼𝗡"
 }
